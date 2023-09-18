@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97214e86.css",
+    "main.js": "/static/js/main.e9ccfd11.js",
+    "static/js/787.c2c112c6.chunk.js": "/static/js/787.c2c112c6.chunk.js",
+    "static/media/banner-islam-1.jpg": "/static/media/banner-islam-1.4d5ae262ec54551ff7cc.jpg",
+    "static/media/logo.jpg": "/static/media/logo.53443e2d7fb48797ca53.jpg",
+    "index.html": "/index.html",
+    "main.97214e86.css.map": "/static/css/main.97214e86.css.map",
+    "main.e9ccfd11.js.map": "/static/js/main.e9ccfd11.js.map",
+    "787.c2c112c6.chunk.js.map": "/static/js/787.c2c112c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97214e86.css",
+    "static/js/main.e9ccfd11.js"
+  ]
+}
